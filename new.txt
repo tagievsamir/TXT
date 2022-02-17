@@ -1,0 +1,5 @@
+surname-Tagiev,name-Samir,patronymic-Nazimovich
+age-35
+pet-0
+future_desired_salary-1kk
+
