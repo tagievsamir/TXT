@@ -1,0 +1,5 @@
+favorite_movie-"Kin-dza-dza"
+favorite_serial-"Friends"
+favorite_meal-meat
+favorite_time_of_the_year-Summer
+the_country_I_would_like_to_visit-New_Zealand
