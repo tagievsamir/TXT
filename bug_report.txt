@@ -12,7 +12,7 @@ Environment - Android version - 11
               Chrome version - 97.0.4692.98
 Description:
 1.Steps to reproduse:
-1.1 Open ksendzov.com
-1.2 Go to point 26 of the course program 
+1.1.Open ksendzov.com
+1.2.Go to point 26 of the course program 
 2.Result - lines of text overlap (mobile only)
             
