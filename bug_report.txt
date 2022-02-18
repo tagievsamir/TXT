@@ -1,1 +1,18 @@
-
+Created Date - 18.02.2022
+Author - Tagiev S.N.
+Project - ksendzov.com
+Summary - lines of text overlap (mobile only)
+Component - course program points
+Severity - minor
+Priority - trivial
+Status - new 
+Incident Type - bug
+Category - text
+Environment - Android version - 11
+              Chrome version - 97.0.4692.98
+Description:
+1.Steps to reproduse:
+1.1 Open ksendzov.com
+1.2 Go to point 26 of the course program 
+2.Result - lines of text overlap (mobile only)
+            
