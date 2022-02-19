@@ -1,4 +1,4 @@
-1. 1.Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.
+1. Basic theory (What is testing, bug reports, documentation, types, methods, testing areas, etc.) SDLC, STLC.
 2. What is a client-server architecture.
 3. HTTP Methods of requests to the server.
 4. HTTP server response codes.
